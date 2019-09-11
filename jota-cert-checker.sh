@@ -8,7 +8,7 @@
 # Dependencies  :openssl, mutt (if you use the mail option)
 # License       :GPLv3
 #
-
+cat header.txt
 #
 # VARIABLES
 #
